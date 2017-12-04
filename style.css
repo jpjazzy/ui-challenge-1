@@ -1,0 +1,78 @@
+/* MOBILE APP STYLES */
+
+@media only screen and (max-width: 800px) {
+  /********** MAIN LAYOUT *********/
+  * {
+    outline: 1px solid #000;
+    background: #AAA;
+  }
+
+  body {
+    max-width: 100%;
+  }
+
+  /********** MODULES *********/
+  span {
+    font-size: 50px;
+    color: #444;
+    outline: none;
+  }
+
+  div {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+
+  /********** IDs *********/
+  #a-box {
+    height: 75px;
+    line-height: 75px;
+  }
+  #b-box {
+    height: 150px;
+    line-height: 150px;
+  }
+  #c-box {
+    height: 125px;
+    line-height: 125px;
+  }
+  #d-box {
+    height: 125px;
+    line-height: 125px;
+  }
+  #e-box {
+    float:left;
+    margin-left: 0px;
+    height: 250px;
+    line-height: 250px;
+    width: 50%;
+    display: inline-block;
+  }
+  #f-box {
+    float:left;
+    height: 250px;
+    line-height: 250px;
+    width: 50%;
+    display: inline-block;
+  }
+  #g-box {
+    float:left;
+    height: 250px;
+    line-height: 250px;
+    width: 50%;
+    display: inline-block;
+  }
+  #h-box {
+    float:left;
+    height: 250px;
+    line-height: 250px;
+    width: 50%;
+    display: inline-block;
+  }
+  #i-box {
+    height: 80px;
+    line-height: 80px;
+    clear: both;
+  }
+}
