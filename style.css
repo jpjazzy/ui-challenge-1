@@ -4,15 +4,16 @@
   /********** MAIN LAYOUT *********/
   * {
     outline: 1px solid #000;
-    background: #AAA;
   }
 
   body {
     max-width: 100%;
+    background: radial-gradient(#9400D3, #FF0000);
   }
 
   /********** MODULES *********/
   span {
+    text-transform: uppercase;
     font-size: 50px;
     color: #444;
     outline: none;
@@ -26,22 +27,27 @@
 
   /********** IDs *********/
   #a-box {
+    background: radial-gradient(#FFF, #FF0000);
     height: 75px;
     line-height: 75px;
   }
   #b-box {
+    background: radial-gradient(#FFF, #FF7F00);
     height: 150px;
     line-height: 150px;
   }
   #c-box {
+    background: radial-gradient(#FFF, #FFFF00);
     height: 125px;
     line-height: 125px;
   }
   #d-box {
+    background: radial-gradient(#FFF, #00FF00);
     height: 125px;
     line-height: 125px;
   }
   #e-box {
+    background: radial-gradient(#FFF, #0000FF);
     float:left;
     margin-left: 0px;
     height: 250px;
@@ -50,6 +56,7 @@
     display: inline-block;
   }
   #f-box {
+    background: radial-gradient(#FFF, #0000FF);
     float:left;
     height: 250px;
     line-height: 250px;
@@ -57,6 +64,7 @@
     display: inline-block;
   }
   #g-box {
+    background: radial-gradient(#FFF, #0000FF);
     float:left;
     height: 250px;
     line-height: 250px;
@@ -64,6 +72,7 @@
     display: inline-block;
   }
   #h-box {
+    background: radial-gradient(#FFF, #4B0082);
     float:left;
     height: 250px;
     line-height: 250px;
@@ -71,6 +80,7 @@
     display: inline-block;
   }
   #i-box {
+    background: radial-gradient(#FFF, #9400D3);
     height: 80px;
     line-height: 80px;
     clear: both;
