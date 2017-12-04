@@ -4,10 +4,12 @@
   body {
     margin: 0 auto;
     max-width: 960px;
+    background: radial-gradient(#9400D3, #FF0000);
   }
 
   /********** MODULES *********/
   span {
+    text-transform: uppercase;
     font-size: 50px;
     color: #444;
     outline: none;
@@ -15,7 +17,6 @@
 
   div {
     outline: 1px solid #000;
-    background: #AAA;
     float: left;
     text-align: center;
     vertical-align: middle;
@@ -24,46 +25,55 @@
 
   /********** IDs *********/
   #a-box {
+    background: #FF0000;
     height: 100px;
     width: 100%;
     line-height: 100px;
   }
   #b-box {
+    background: #FF7F00;
     height: 600px;
     width: 20.833333333%;
     line-height: 600px;
   }
   #c-box {
+    background: #FFFF00;
     width: 39.583333333%;
     height: 200px;
     line-height: 200px;
   }
   #d-box {
+    background: #00FF00;
     width: 39.583333333%;
     height: 200px;
     line-height: 200px;
   }
   #e-box {
+    background: #0000FF;
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #f-box {
+    background: #0000FF;
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #g-box {
+    background: #0000FF;
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #h-box {
+    background: #4B0082;
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #i-box {
+    background: #9400D3;
     height: 150px;
     width: 79.166666667%;
     line-height: 150px;
