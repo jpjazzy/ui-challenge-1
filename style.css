@@ -27,27 +27,27 @@
 
   /********** IDs *********/
   #a-box {
-    background: #FF0000;
+    background: radial-gradient(#FFF, #FF0000);
     height: 75px;
     line-height: 75px;
   }
   #b-box {
-    background: #FF7F00;
+    background: radial-gradient(#FFF, #FF7F00);
     height: 150px;
     line-height: 150px;
   }
   #c-box {
-    background: #FFFF00;
+    background: radial-gradient(#FFF, #FFFF00);
     height: 125px;
     line-height: 125px;
   }
   #d-box {
-    background: #00FF00;
+    background: radial-gradient(#FFF, #00FF00);
     height: 125px;
     line-height: 125px;
   }
   #e-box {
-    background: #0000FF;
+    background: radial-gradient(#FFF, #0000FF);
     float:left;
     margin-left: 0px;
     height: 250px;
@@ -56,7 +56,7 @@
     display: inline-block;
   }
   #f-box {
-    background: #0000FF;
+    background: radial-gradient(#FFF, #0000FF);
     float:left;
     height: 250px;
     line-height: 250px;
@@ -64,7 +64,7 @@
     display: inline-block;
   }
   #g-box {
-    background: #0000FF;
+    background: radial-gradient(#FFF, #0000FF);
     float:left;
     height: 250px;
     line-height: 250px;
@@ -72,7 +72,7 @@
     display: inline-block;
   }
   #h-box {
-    background: #4B0082;
+    background: radial-gradient(#FFF, #4B0082);
     float:left;
     height: 250px;
     line-height: 250px;
@@ -80,7 +80,7 @@
     display: inline-block;
   }
   #i-box {
-    background: #9400D3;
+    background: radial-gradient(#FFF, #9400D3);
     height: 80px;
     line-height: 80px;
     clear: both;

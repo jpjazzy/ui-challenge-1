@@ -25,55 +25,55 @@
 
   /********** IDs *********/
   #a-box {
-    background: #FF0000;
+    background: radial-gradient(#FFF, #FF0000);
     height: 100px;
     width: 100%;
     line-height: 100px;
   }
   #b-box {
-    background: #FF7F00;
+    background: radial-gradient(#FFF, #FF7F00);
     height: 600px;
     width: 20.833333333%;
     line-height: 600px;
   }
   #c-box {
-    background: #FFFF00;
+    background: radial-gradient(#FFF, #FFFF00);
     width: 39.583333333%;
     height: 200px;
     line-height: 200px;
   }
   #d-box {
-    background: #00FF00;
+    background: radial-gradient(#FFF, #00FF00);
     width: 39.583333333%;
     height: 200px;
     line-height: 200px;
   }
   #e-box {
-    background: #0000FF;
+    background: radial-gradient(#FFF, #0000FF);
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #f-box {
-    background: #0000FF;
+    background: radial-gradient(#FFF, #0000FF);
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #g-box {
-    background: #0000FF;
+    background: radial-gradient(#FFF, #0000FF);
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #h-box {
-    background: #4B0082;
+    background: radial-gradient(#FFF, #4B0082);
     height: 250px;
     width: 19.791666667%;
     line-height: 250px;
   }
   #i-box {
-    background: #9400D3;
+    background: radial-gradient(#FFF, #9400D3);
     height: 150px;
     width: 79.166666667%;
     line-height: 150px;
